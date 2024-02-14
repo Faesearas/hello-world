@@ -1,6 +1,6 @@
 # Hello-world
 
-#### By _**Amy Hruska**_
+#### By _Amy_
 
 #### _Practice website creation using git, vs code, & others._
 
